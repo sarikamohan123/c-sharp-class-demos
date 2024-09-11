@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee_salary_interface-inheritance", "Employee_salary_interphase-inheritance\Employee_salary_interface-inheritance.csproj", "{F1ACC1F6-C895-437C-AF89-BE6DE90E7706}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ACC1F6-C895-437C-AF89-BE6DE90E7706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ACC1F6-C895-437C-AF89-BE6DE90E7706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ACC1F6-C895-437C-AF89-BE6DE90E7706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ACC1F6-C895-437C-AF89-BE6DE90E7706}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAA5E541-7322-419E-9A27-69B7B1B1D8FC}
+	EndGlobalSection
+EndGlobal

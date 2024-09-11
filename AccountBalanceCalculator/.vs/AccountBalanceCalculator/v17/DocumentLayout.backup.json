@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\accountbalancecalculator\\accountbalancecalculator\\model\\accountbalanceapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|solutionrelative:accountbalancecalculator\\model\\accountbalanceapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\accountbalancecalculator\\accountbalancecalculator\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|solutionrelative:accountbalancecalculator\\model\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\accountbalancecalculator\\accountbalancecalculator\\model\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|solutionrelative:accountbalancecalculator\\model\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\accountbalancecalculator\\accountbalancecalculator\\model\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|solutionrelative:accountbalancecalculator\\model\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\accountbalancecalculator\\accountbalancecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF49EE18-FB19-42F7-85A3-AC16F2DB55BD}|AccountBalanceCalculator\\AccountBalanceCalculator.csproj|solutionrelative:accountbalancecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountBalanceApp.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\AccountBalanceApp.cs",
+              "RelativeDocumentMoniker": "AccountBalanceCalculator\\Model\\AccountBalanceApp.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\AccountBalanceApp.cs",
+              "RelativeToolTip": "AccountBalanceCalculator\\Model\\AccountBalanceApp.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA0wCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:34:45.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "AccountBalanceCalculator\\Model\\SavingsAccount.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\SavingsAccount.cs",
+              "RelativeToolTip": "AccountBalanceCalculator\\Model\\SavingsAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T05:08:15.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "AccountBalanceCalculator\\Model\\CheckingAccount.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\CheckingAccount.cs",
+              "RelativeToolTip": "AccountBalanceCalculator\\Model\\CheckingAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T04:30:52.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\Account.cs",
+              "RelativeDocumentMoniker": "AccountBalanceCalculator\\Model\\Account.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Model\\Account.cs",
+              "RelativeToolTip": "AccountBalanceCalculator\\Model\\Account.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:57:11.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "AccountBalanceCalculator\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\AccountBalanceCalculator\\AccountBalanceCalculator\\Program.cs",
+              "RelativeToolTip": "AccountBalanceCalculator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:56:18.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

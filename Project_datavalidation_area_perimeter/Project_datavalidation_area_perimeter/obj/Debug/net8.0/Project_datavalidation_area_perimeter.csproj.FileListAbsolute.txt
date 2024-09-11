@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\bin\Debug\net8.0\Project_datavalidation_area_perimeter.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\bin\Debug\net8.0\Project_datavalidation_area_perimeter.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\bin\Debug\net8.0\Project_datavalidation_area_perimeter.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\bin\Debug\net8.0\Project_datavalidation_area_perimeter.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\bin\Debug\net8.0\Project_datavalidation_area_perimeter.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\refint\Project_datavalidation_area_perimeter.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\Project_datavalidation_area_perimeter.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_datavalidation_area_perimeter\Project_datavalidation_area_perimeter\obj\Debug\net8.0\ref\Project_datavalidation_area_perimeter.dll

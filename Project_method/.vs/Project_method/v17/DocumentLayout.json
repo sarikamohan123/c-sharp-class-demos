@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Project_method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39FC3960-4E4C-421E-B586-9F1322A9CCFD}|Project_method\\Project_method.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\project_method\\project_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FC3960-4E4C-421E-B586-9F1322A9CCFD}|Project_method\\Project_method.csproj|solutionrelative:project_method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Project_method\\Project_method\\Program.cs",
+              "RelativeDocumentMoniker": "Project_method\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Project_method\\Project_method\\Program.cs",
+              "RelativeToolTip": "Project_method\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:07:51.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

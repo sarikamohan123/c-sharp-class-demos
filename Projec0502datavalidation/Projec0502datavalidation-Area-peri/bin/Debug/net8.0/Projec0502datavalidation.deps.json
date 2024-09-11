@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Projec0502datavalidation/1.0.0": {
+        "runtime": {
+          "Projec0502datavalidation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projec0502datavalidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

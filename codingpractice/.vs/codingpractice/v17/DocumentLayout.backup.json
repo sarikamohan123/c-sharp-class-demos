@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\codingpractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9FA9B84-171F-4DF5-AB0E-4C6BD2CC2EAC}|codingpractice\\codingpractice.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\codingpractice\\codingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9FA9B84-171F-4DF5-AB0E-4C6BD2CC2EAC}|codingpractice\\codingpractice.csproj|solutionrelative:codingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\codingpractice\\codingpractice\\Program.cs",
+              "RelativeDocumentMoniker": "codingpractice\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\codingpractice\\codingpractice\\Program.cs*",
+              "RelativeToolTip": "codingpractice\\Program.cs*",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA0wFwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T20:37:33.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

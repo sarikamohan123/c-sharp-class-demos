@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\net8.0\AccountBalanceCalculator.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\net8.0\AccountBalanceCalculator.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\net8.0\AccountBalanceCalculator.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\net8.0\AccountBalanceCalculator.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\bin\Debug\net8.0\AccountBalanceCalculator.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\refint\AccountBalanceCalculator.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\AccountBalanceCalculator.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\AccountBalanceCalculator\AccountBalanceCalculator\obj\Debug\net8.0\ref\AccountBalanceCalculator.dll

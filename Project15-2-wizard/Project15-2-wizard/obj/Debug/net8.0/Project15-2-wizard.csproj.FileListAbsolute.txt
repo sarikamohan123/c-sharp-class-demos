@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\bin\Debug\net8.0\Project15-2-wizard.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\bin\Debug\net8.0\Project15-2-wizard.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\bin\Debug\net8.0\Project15-2-wizard.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\bin\Debug\net8.0\Project15-2-wizard.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\bin\Debug\net8.0\Project15-2-wizard.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\refint\Project15-2-wizard.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\Project15-2-wizard.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project15-2-wizard\Project15-2-wizard\obj\Debug\net8.0\ref\Project15-2-wizard.dll

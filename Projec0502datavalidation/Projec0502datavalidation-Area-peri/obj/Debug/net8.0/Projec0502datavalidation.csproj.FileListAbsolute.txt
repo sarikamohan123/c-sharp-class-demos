@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\bin\Debug\net8.0\Projec0502datavalidation.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\bin\Debug\net8.0\Projec0502datavalidation.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\bin\Debug\net8.0\Projec0502datavalidation.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\bin\Debug\net8.0\Projec0502datavalidation.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\bin\Debug\net8.0\Projec0502datavalidation.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\refint\Projec0502datavalidation.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\Projec0502datavalidation.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Projec0502datavalidation\Projec0502datavalidation\obj\Debug\net8.0\ref\Projec0502datavalidation.dll

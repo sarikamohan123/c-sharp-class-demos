@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\date-time1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB12222-89B3-4394-9EC5-F437C4913145}|date-time1\\date-time1.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\date-time1\\date-time1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB12222-89B3-4394-9EC5-F437C4913145}|date-time1\\date-time1.csproj|solutionrelative:date-time1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\date-time1\\date-time1\\Program.cs",
+              "RelativeDocumentMoniker": "date-time1\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\date-time1\\date-time1\\Program.cs",
+              "RelativeToolTip": "date-time1\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBBwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T15:16:05.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\bin\Debug\net8.0\stringpractice.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\bin\Debug\net8.0\stringpractice.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\bin\Debug\net8.0\stringpractice.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\bin\Debug\net8.0\stringpractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\bin\Debug\net8.0\stringpractice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\refint\stringpractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\stringpractice.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\stringpractice\stringpractice\obj\Debug\net8.0\ref\stringpractice.dll

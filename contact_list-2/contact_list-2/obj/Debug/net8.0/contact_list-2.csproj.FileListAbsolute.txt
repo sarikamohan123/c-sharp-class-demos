@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\bin\Debug\net8.0\contact_list-2.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\bin\Debug\net8.0\contact_list-2.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\bin\Debug\net8.0\contact_list-2.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\bin\Debug\net8.0\contact_list-2.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\bin\Debug\net8.0\contact_list-2.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\refint\contact_list-2.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\contact_list-2.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact_list-2\contact_list-2\obj\Debug\net8.0\ref\contact_list-2.dll

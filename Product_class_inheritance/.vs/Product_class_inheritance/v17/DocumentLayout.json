@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Product_class_inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D01732A7-4393-4582-8B20-729BA3101697}|Product_class_inheritance\\Product_class_inheritance.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\product_class_inheritance\\product_class_inheritance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01732A7-4393-4582-8B20-729BA3101697}|Product_class_inheritance\\Product_class_inheritance.csproj|solutionrelative:product_class_inheritance\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D01732A7-4393-4582-8B20-729BA3101697}|Product_class_inheritance\\Product_class_inheritance.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\product_class_inheritance\\product_class_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D01732A7-4393-4582-8B20-729BA3101697}|Product_class_inheritance\\Product_class_inheritance.csproj|solutionrelative:product_class_inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Product_class_inheritance\\Product_class_inheritance\\Product.cs",
+              "RelativeDocumentMoniker": "Product_class_inheritance\\Product.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Product_class_inheritance\\Product_class_inheritance\\Product.cs",
+              "RelativeToolTip": "Product_class_inheritance\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:03:40.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Product_class_inheritance\\Product_class_inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Product_class_inheritance\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\Product_class_inheritance\\Product_class_inheritance\\Program.cs",
+              "RelativeToolTip": "Product_class_inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T15:02:39.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

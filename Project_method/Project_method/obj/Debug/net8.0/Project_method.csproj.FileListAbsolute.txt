@@ -1,0 +1,4 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_method\Project_method\obj\Debug\net8.0\Project_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_method\Project_method\obj\Debug\net8.0\Project_method.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_method\Project_method\obj\Debug\net8.0\Project_method.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Project_method\Project_method\obj\Debug\net8.0\Project_method.csproj.CoreCompileInputs.cache

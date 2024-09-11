@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\bin\Debug\net8.0\interfacepractice.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\bin\Debug\net8.0\interfacepractice.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\bin\Debug\net8.0\interfacepractice.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\bin\Debug\net8.0\interfacepractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\bin\Debug\net8.0\interfacepractice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\refint\interfacepractice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\interfacepractice.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\interfacepractice\interfacepractice\obj\Debug\net8.0\ref\interfacepractice.dll

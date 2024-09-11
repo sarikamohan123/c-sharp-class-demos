@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\bin\Debug\net8.0\date-time1.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\bin\Debug\net8.0\date-time1.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\bin\Debug\net8.0\date-time1.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\bin\Debug\net8.0\date-time1.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\bin\Debug\net8.0\date-time1.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\refint\date-time1.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\date-time1.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\date-time1\date-time1\obj\Debug\net8.0\ref\date-time1.dll

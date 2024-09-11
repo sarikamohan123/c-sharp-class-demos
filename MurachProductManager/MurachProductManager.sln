@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MurachProductManager", "MurachProductManager\MurachProductManager.csproj", "{1A26A363-C4D9-4263-914F-AC20697EBC1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A26A363-C4D9-4263-914F-AC20697EBC1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A26A363-C4D9-4263-914F-AC20697EBC1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A26A363-C4D9-4263-914F-AC20697EBC1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A26A363-C4D9-4263-914F-AC20697EBC1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEDE9F7-4DC5-468E-8821-583C68A30954}
+	EndGlobalSection
+EndGlobal

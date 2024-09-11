@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Project15-2-wizard/1.0.0": {
+        "runtime": {
+          "Project15-2-wizard.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project15-2-wizard/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

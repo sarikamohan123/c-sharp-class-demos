@@ -1,0 +1,4 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact-list\contact-list\obj\Debug\net8.0\contact-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact-list\contact-list\obj\Debug\net8.0\contact-list.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact-list\contact-list\obj\Debug\net8.0\contact-list.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\contact-list\contact-list\obj\Debug\net8.0\contact-list.csproj.CoreCompileInputs.cache

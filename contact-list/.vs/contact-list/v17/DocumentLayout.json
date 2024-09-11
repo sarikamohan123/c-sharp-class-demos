@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\contact-list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|solutionrelative:contact-list\\contact-list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|solutionrelative:contact-list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|c:\\sarika\\max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\contact-list.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1811F55B-45BF-436C-8A86-9AD3F5548828}|contact-list\\contact-list.csproj|solutionrelative:contact-list\\contact-list.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact-list.Designer.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Contact-list.Designer.cs",
+              "RelativeDocumentMoniker": "contact-list\\Contact-list.Designer.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Contact-list.Designer.cs",
+              "RelativeToolTip": "contact-list\\Contact-list.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T15:51:55.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact-list.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Contact-list.cs",
+              "RelativeDocumentMoniker": "contact-list\\Contact-list.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Contact-list.cs",
+              "RelativeToolTip": "contact-list\\Contact-list.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA0wAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:52:47.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Program.cs",
+              "RelativeDocumentMoniker": "contact-list\\Program.cs",
+              "ToolTip": "C:\\Sarika\\Max\\c-sharp-repos\\c-sharp-class-demos\\contact-list\\contact-list\\Program.cs",
+              "RelativeToolTip": "contact-list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T13:52:13.493Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
