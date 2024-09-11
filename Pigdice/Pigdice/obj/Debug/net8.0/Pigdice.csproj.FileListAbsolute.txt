@@ -1,0 +1,14 @@
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\bin\Debug\net8.0\Pigdice.exe
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\bin\Debug\net8.0\Pigdice.deps.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\bin\Debug\net8.0\Pigdice.runtimeconfig.json
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\bin\Debug\net8.0\Pigdice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\bin\Debug\net8.0\Pigdice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.AssemblyInfoInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.AssemblyInfo.cs
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.csproj.CoreCompileInputs.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\refint\Pigdice.dll
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.pdb
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\Pigdice.genruntimeconfig.cache
+C:\Sarika\Max\c-sharp-repos\c-sharp-class-demos\Pigdice\Pigdice\obj\Debug\net8.0\ref\Pigdice.dll
